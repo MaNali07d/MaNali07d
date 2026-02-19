@@ -59,13 +59,14 @@ I aim to build solutions that use data effectively to solve real-world problems 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaNali07d&show_icons=true&theme=github_dark" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaNali07d&layout=compact&theme=github_dark" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaNali07d&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaNali07d&theme=github_dark"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MaNali07d&theme=github-dark&hide_border=true"/>
 </p>
+
 
 ---
 

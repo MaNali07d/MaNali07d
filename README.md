@@ -64,7 +64,7 @@ I aim to build solutions that use data effectively to solve real-world problems 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MaNali07d&theme=github-dark&border_radius=5" />
+  <img src="https://streak-stats.demolab.com?user=MaNali07d&theme=github-dark&hide_border=true"/>
 </p>
 
 ---

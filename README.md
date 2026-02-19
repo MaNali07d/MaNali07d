@@ -1,12 +1,22 @@
 <h1 align="center">Hi, I'm Manali 👋</h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-Year+AI+%26+Data+Science+Student;Aspiring+Software+Developer;Building+Projects+Consistently;New+Updates+Soon"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-Year+AI+%26+Data+Science+Student;Aspiring+Web+Developer;Building+Projects+Consistently;New+Updates+Soon"/>
 </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=18&duration=5000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=900&lines=I’m+currently+pursuing+Engineering+at+Thakur+College+of+Engineering.;Passionate+about+building+practical+projects+and+learning+software+development+step+by+step." />
 </p>
+
+---
+
+## 💡 Why I Chose AI & Data Science
+
+I’m fascinated by how data can be transformed into insights and how intelligent systems can solve real-world problems.  
+
+As a first-year AI & Data Science student, I’m focused on building strong fundamentals in programming, mathematics, and problem-solving while gradually exploring machine learning and practical applications.
+
+My goal is to grow step by step into an engineer who builds meaningful, data-driven solutions.
 
 ---
 
@@ -35,6 +45,14 @@
 - Improve DSA skills
 - Learn backend development
 - Contribute to open source
+
+---
+
+## 🎯 Long-Term Goal
+
+To become a skilled AI & Data Science Engineer with strong problem-solving abilities and a deep understanding of data, machine learning, and intelligent systems.
+
+I aim to build solutions that use data effectively to solve real-world problems and create meaningful impact.
 
 ---
 

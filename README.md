@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manali 👋</h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-Year+AI+%26+Data+Science+Student;Aspiring+Web+Developer;Building+Projects+Consistently;New+Updates+Soon"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=First-Year+AI+%26+Data+Science+Student;Building+Projects+Consistently;New+Updates+Soon"/>
 </h3>
 
 <p align="center">

@@ -3,7 +3,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🎓+AI+%26+Data+Science+Engineer+in+Making;🚀+Building+Projects+from+Scratch;🧸+Founder+of+Artisiannest;💡+Turning+Ideas+into+Reality;✨+One+Commit+at+a+Time"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🎓+AI+%26+Data+Science+Engineer+in+Making;🚀+Building+Projects+from+Scratch;🧸+Founder+of+Artisiannest;💡+Turning+Ideas+into+Reality;✨+One+Commit+at+a+Time"/>
 
 <br/>
 

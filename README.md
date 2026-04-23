@@ -17,11 +17,11 @@
 
 ## Hey, I'm Manali 👋
 
-I'm a first-year **AI & Data Science** engineering student at Thakur College of Engineering & Technology, Mumbai — and I don't wait to graduate before building things.
+I'm a first-year **AI & Data Science** engineering student at Thakur College of Engineering & Technology, Mumbai - and I don't wait to graduate before building things.
 
-I founded **Artisiannest**, a handmade gifts e-commerce brand, from scratch — website, WhatsApp API integration, and all. I build full-stack projects, compete in hackathons, and I'm actively looking for **web development internships and freelance clients** (remote-friendly).
+I founded **Artisiannest**, a handmade gifts e-commerce brand, from scratch - website, WhatsApp API integration, and all. I build full-stack projects, compete in hackathons, and I'm actively looking for **web development internships and freelance clients** (remote-friendly).
 
-If you need someone who can ship real products, learn fast, and bring both technical and creative thinking — that's me.
+If you need someone who can ship real products, learn fast, and bring both technical and creative thinking - that's me.
 
 ---
 
@@ -65,7 +65,7 @@ If you need someone who can ship real products, learn fast, and bring both techn
 ### 🛍️ Artisiannest
 **Handmade gifts e-commerce brand**
 
-A full custom website for my own brand — product showcases, modal carousels, WhatsApp API integration, and mobile-responsive design. Built and deployed entirely by me.
+A full custom website for my own brand - product showcases, modal carousels, WhatsApp API integration, and mobile-responsive design. Built and deployed entirely by me.
 
 **Stack:** HTML · CSS · JavaScript · WhatsApp API · Netlify
 
@@ -106,7 +106,7 @@ Role-based dashboards for students and instructors, AI integrations via the Anth
 ### 🔜 Next Project
 **Always building something new**
 
-Check back soon — or reach out if you want to collaborate on something interesting.
+Check back soon - or reach out if you want to collaborate on something interesting.
 
 [![Contact Me](https://img.shields.io/badge/Let's_Build-Together-A78BFA?style=flat-square)](mailto:manalidesai1127@gmail.com)
 
@@ -137,7 +137,7 @@ Check back soon — or reach out if you want to collaborate on something interes
 
 ## 🎯 Currently
 
-- 📚 First year — AI & Data Science Engineering @ TCET, Mumbai
+- 📚 First year - AI & Data Science Engineering @ TCET, Mumbai
 - 🔨 Improving Artisiannest (product pages, SEO, performance)
 - 🌱 Going deeper into React, data science pipelines, and building in public
 - 👀 **Open to:** Web dev internships, freelance projects, hackathon teams
@@ -146,7 +146,7 @@ Check back soon — or reach out if you want to collaborate on something interes
 
 ## 📬 Let's Connect
 
-I reply to everyone. Whether you're a recruiter, a potential client, or just someone who wants to collaborate — reach out.
+I reply to everyone. Whether you're a recruiter, a potential client, or just someone who wants to collaborate - reach out.
 
 <div align="center">
 
